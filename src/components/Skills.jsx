@@ -38,7 +38,6 @@ function Skills() {
           <div className="col-12">
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
-              <p>Personal and academic projects</p>
               <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
 
                 <div className='item' id='react'>

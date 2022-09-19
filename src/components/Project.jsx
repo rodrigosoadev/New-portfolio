@@ -42,7 +42,7 @@ const Project = () => {
       title: "Business Startup",
       description: "Reactjs and bootstrap",
       imgUrl: fineart,
-      toView: 'https://neon-torte-4fb7ec.netlify.app/'
+      toView: 'https://funny-yeot-22b47e.netlify.app/'
     },
     {
       title: "Netflix clone",
